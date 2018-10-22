@@ -12,3 +12,5 @@ git add -A 是总的 新文件 修改文件 和删除文件
 git add -u 对是修改文件和删除文件
 git add --ignore-removal 略是删除的文件
 git commit -am"追加文件并且提交修改说明"
+git add -i 查看修改或删除的文件 但是没有提交的文件
+
