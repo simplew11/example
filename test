@@ -5,3 +5,9 @@
 esc->:wq 退出并保存
 esc->:w 只提示已经保存
 接下来实验放弃修改并退出:esc->:q! 这个命令会让你操作没有保存就退出了。
+git status 可以用来查看下 工作区的 状态
+git add fileName 可以用来提交是指定的文件
+git add . 提交修改和新的文件 除了删除的文件按
+git add -A 是总的 新文件 修改文件 和删除文件
+git add -u 对是修改文件和删除文件
+git add --ignore-removal 略是删除的文件
