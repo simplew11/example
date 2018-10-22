@@ -17,4 +17,7 @@ git add -i 查看修改或删除的文件 但是没有提交的文件
 没有冲突冲突的解决 出现原因
 
 怎么使得项目可以回到某个版本时候？
+使用命令 git log 文件日志
+git reset --head  hashvalue
+
 
