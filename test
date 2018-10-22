@@ -14,3 +14,5 @@ git add --ignore-removal 略是删除的文件
 git commit -am"追加文件并且提交修改说明"
 git add -i 查看修改或删除的文件 但是没有提交的文件
 
+没有冲突
+
